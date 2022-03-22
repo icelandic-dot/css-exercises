@@ -1,0 +1,8 @@
+/** could have added .text class name from children as well */
+
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
