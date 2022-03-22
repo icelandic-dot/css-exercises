@@ -1,0 +1,15 @@
+/* did not have to make a common tag, could have just used the following .click1, .click2 to affect both objects */
+
+.common {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click1{
+    background-color: #000;
+    color: #fff;
+}
+
+.click2 {
+    background-color: #ff0;
+}
